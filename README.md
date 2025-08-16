@@ -18,7 +18,7 @@ It provides both **query-based insights** and **visual dashboards** for a compre
 ## 🔗 Large Files (Hosted on Google Drive)
 Due to GitHub file size limits, large files are hosted externally:
 - [flights.csv (500 MB)](https://drive.google.com/your-dataset-link)  
-- [Power BI Dashboard (.pbix)](https://drive.google.com/your-pbix-link)  
+- [Power BI Dashboard (.pbix)]([https://drive.google.com/your-pbix-link](https://drive.google.com/file/d/1ThYZcdrQRKh-Xd3C1FZejlic-T9RZecj/view?usp=drive_link))  
 
 ---
 
